@@ -26,7 +26,7 @@ export class InputComponent extends React.Component<InputComponentProps> {
               </Grid>
               <Grid item={true}>
                   <Typography className="text" variant="overline">
-            Simple password strength calculator
+            Think you have a strong password?
                   </Typography>
               </Grid>
 
