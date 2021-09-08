@@ -3,7 +3,7 @@
     "description": "Simple password strength calculator written in React powered by zxcvbn",
     "version": "0.0.1",
     "private": true,
-    "license": "UNLICENSED",
+    "license": "MIT",
     "scripts": {
         "format": "prettier --write \"src/**/*.{ts,tsx,scss}\" --config .prettierrc.json",
         "lint": "eslint \"src/**/*.{ts,tsx,css}\" --fix",
